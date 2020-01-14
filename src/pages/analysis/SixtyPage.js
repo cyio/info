@@ -58,6 +58,7 @@ class SixtyPage extends Component {
           <Radio.Button value='XRP'>XRP</Radio.Button>
           <Radio.Button value='LTC'>LTC</Radio.Button>
           <Radio.Button value='BCH'>BCH</Radio.Button>
+          <Radio.Button value='BSV'>BSV</Radio.Button>
           <Radio.Button value='EOS'>EOS</Radio.Button>
           <Radio.Button value='TRX'>TRX</Radio.Button>
         </Radio.Group>
